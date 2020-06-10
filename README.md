@@ -5,8 +5,8 @@ to see who the better typer is based on categories such as accuray, speed (in wo
 
 # What I Learned/Used
 
-• Learned Colyseus (In Progress)
-• Used JavaScript DOM 
-• Used Flexbox
-• Used Bootstrap
+• Learned Colyseus (In Progress)  
+• Used JavaScript DOM  
+• Used Flexbox  
+• Used Bootstrap  
 • Used HTML & CSS
